@@ -21,7 +21,7 @@ _Use GitHub Actions to publish your project to a Docker image._
 
 ## Step 3: Merge your changes
 
-_Let's get publishing! :heart:_
+_Let's get publishing! :heart:_ a
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your changes!
 
